@@ -1,3 +1,8 @@
+.yes,
+.no {
+
+}
+
 .yes {
     background-color: black;
     color: white;
@@ -6,3 +11,4 @@
 .no {
     background-color: yellow;
 }
+
