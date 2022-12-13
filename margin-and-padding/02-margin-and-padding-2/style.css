@@ -11,8 +11,7 @@ body {
 }
 
 .title {
-  background: #e3f4ff;
-  
+  background: #e3f4ff; 
   padding: 8px;
   font-weight: bold;
 }
@@ -25,8 +24,8 @@ body {
 
 .button-container {
   background: #e3f4ff;
- 
   padding: 8px;
+  text-align: center;
 }
 
 button {
