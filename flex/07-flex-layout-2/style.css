@@ -17,6 +17,10 @@ body {
   align-items: center;
 }
 
+.mid {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
