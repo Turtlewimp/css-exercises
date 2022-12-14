@@ -28,7 +28,7 @@ a, a:link, a:active {
 }
 
 .header {
-  padding: 10px;
+  padding: 8px;
   display: flex;
   justify-content: space-between;
 }
@@ -61,7 +61,7 @@ input {
 
 .footer {
   background-color: #eee;
-  padding: 10px;
+  padding: 8px;
   display: flex;
   justify-content: space-between;
 }
