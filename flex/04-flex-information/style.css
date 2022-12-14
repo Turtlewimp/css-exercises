@@ -8,6 +8,11 @@ body {
 img {
   width: 100px;
   height: 100px;
+  align-self: center;
+}
+
+.text {
+  text-align: center;
 }
 
 .title {
