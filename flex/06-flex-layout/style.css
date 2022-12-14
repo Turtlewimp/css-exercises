@@ -10,6 +10,10 @@ body {
   justify-content: space-between;
 }
 
+li {
+  list-style-type: none;
+}
+
 .header {
   display: flex;
 }
