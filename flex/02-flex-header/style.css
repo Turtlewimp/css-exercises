@@ -1,7 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-  padding: 8px 0px;
+  padding: 8px;
   display: flex;
   justify-content: space-between;
   align-content: center;
@@ -20,7 +20,7 @@ ul {
   list-style-type: none;
   display: flex;
   padding: 0;
-  gap: 14px;
+  gap: 8px;
 }
 
 a {
