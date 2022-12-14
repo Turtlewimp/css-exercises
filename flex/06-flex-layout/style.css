@@ -16,6 +16,7 @@ li {
 
 .header {
   display: flex;
+  justify-content: space-between;
 }
 
 img {
@@ -39,4 +40,5 @@ input {
 
 .footer {
   display: flex;
+  justify-content: space-between;
 }
