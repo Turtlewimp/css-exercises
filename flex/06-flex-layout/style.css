@@ -24,7 +24,7 @@ li {
 
 a, a:link, a:active {
   text-decoration: none;
-  color: gray;
+  color: rgb(100, 100, 100);
 }
 
 .header {
