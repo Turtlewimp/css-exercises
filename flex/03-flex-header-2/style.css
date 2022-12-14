@@ -53,3 +53,7 @@ ul {
   gap: 16px;
   padding: 0;
 }
+
+.extra-space {
+  flex: 1;
+}
