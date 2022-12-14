@@ -45,6 +45,7 @@ input {
 }
 
 .footer {
+  background-color: #eee;
   display: flex;
   justify-content: space-between;
 }
