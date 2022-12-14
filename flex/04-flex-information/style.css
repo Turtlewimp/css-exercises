@@ -28,6 +28,7 @@ li {
   flex-wrap: wrap;
   flex-basis: 200px;
   justify-content: center;
+  align-content: flex-start;
 }
 
 .text {
