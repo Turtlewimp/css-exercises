@@ -20,16 +20,13 @@ li {
   list-style-type: none;
 }
 
-a{
+a, a:link, a:active {
   text-decoration: none;
   color: gray;
 }
 
-a:link, a:active {
-  color:gray;
-}
-
 .header {
+  padding: 10px;
   display: flex;
   justify-content: space-between;
 }
@@ -55,6 +52,7 @@ input {
 
 .footer {
   background-color: #eee;
+  padding: 10px;
   display: flex;
   justify-content: space-between;
 }
