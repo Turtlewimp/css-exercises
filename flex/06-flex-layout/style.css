@@ -27,10 +27,14 @@ a, a:link, a:active {
   color: rgb(100, 100, 100);
 }
 
-.header {
+.header, .footer {
   padding: 8px;
   display: flex;
   justify-content: space-between;
+}
+
+.footer {
+  background-color: #eee;
 }
 
 .content{
@@ -57,11 +61,4 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
-}
-
-.footer {
-  background-color: #eee;
-  padding: 8px;
-  display: flex;
-  justify-content: space-between;
 }
