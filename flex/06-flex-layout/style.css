@@ -18,6 +18,8 @@ ul{
 
 li {
   list-style-type: none;
+  padding: 8px;
+  
 }
 
 a, a:link, a:active {
