@@ -27,7 +27,13 @@ li {
   display: flex;
   flex-wrap: wrap;
   flex-basis: 200px;
+  justify-content: center;
 }
+
+.text {
+  text-align: center;
+}
+
 
 /* do not edit this footer */
 .footer {
